@@ -7,6 +7,7 @@ I love to discover new ways to make my life easy with IoT devices like Alexa, Ra
 ### Social Networks
 
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/AlanN_Goncalves)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2)](https://www.linkedin.com/in/alan-santos-31b39878/)
 
 ### Currently studying
 
