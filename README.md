@@ -35,7 +35,7 @@ I love to discover new ways to make my life easy with IoT devices like Alexa, Ra
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=Apache-Cassandra)
 
-## Favorites IDE
+### Favorites IDE
 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=Intellij-idea)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm)
