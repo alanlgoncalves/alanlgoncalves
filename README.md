@@ -35,5 +35,11 @@ I love to discover new ways to make my life easy with IoT devices like Alexa, Ra
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=Apache-Cassandra)
 
+## Favorites IDE
+
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=Intellij-idea)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual-Studio-Code&logoColor=2261C7)
+
 ### 👨🏽‍💻 My GitHub Stats
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanlgoncalves&show_icons=true&hide_title=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanlgoncalves&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&count_private=true)
