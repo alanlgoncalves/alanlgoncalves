@@ -2,7 +2,7 @@
 
 Software Engineer at PagSeguro. Spring framework fan and actually in love with React Native and Flutter development.
 
-I love to discover new ways to make my life easy with IoT devices like Alexa, Raspberry PI with compatible devices and systems like [Home Assistant](https://www.home-assistant.io/)
+I love to discover new ways to make my life easy with IoT devices like Alexa, Raspberry PI with compatible devices and systems like [Home Assistant](https://www.home-assistant.io/).
 
 ### Social Networks
 
@@ -22,21 +22,23 @@ I love to discover new ways to make my life easy with IoT devices like Alexa, Ra
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![ReactNative](https://img.shields.io/badge/-React_Native-000?&logo=React&logoColor=C57AEB)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React&logoColor=C57AEB)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache-Kafka)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-000?&logo=RabbitMQ)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=Apache-Spark)
+![Cucumber](https://img.shields.io/badge/-Cucumber-000?&logo=Cucumber)
 
 ### Databases 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Postgres](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql&logoColor=0064A5)
 ![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=Oracle&logoColor=FF0000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=Apache-Cassandra)
+![Apache Cassandra](https://img.shields.io/badge/-Cassandra-000?&logo=Apache-Cassandra)
 
-### Favorites IDE
+### My Favorites IDE
 
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=Intellij-idea)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000?&logo=Webstorm)
