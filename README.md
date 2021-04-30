@@ -2,6 +2,8 @@
 
 Software Engineer at PagSeguro. Spring framework fan and actually in love with React Native and Flutter development.
 
+I love to discover new ways to make my life easy with IoT devices like Alexa, Raspberry PI with compatible devices and systems like [Home Assistant](https://www.home-assistant.io/)
+
 ### Social Networks
 
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/AlanN_Goncalves)
