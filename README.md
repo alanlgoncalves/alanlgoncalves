@@ -29,6 +29,10 @@ I love to discover new ways to make my life easy with IoT devices like Alexa, Ra
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=Apache-Spark)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000?&logo=Cucumber)
+![Maven](https://img.shields.io/badge/-Maven-000?&logo=Apache-Maven)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=Gradle)
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
+![Yarn](https://img.shields.io/badge/-Yarn-000?&logo=Yarn)
 
 ### Databases 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
