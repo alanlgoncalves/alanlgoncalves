@@ -16,6 +16,7 @@ I love to discover new ways to make my life easy with IoT devices like Alexa, Ra
 
 ### Technologies and Frameworks
 
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=0D1117&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF0000&color=0D1117&style=flat-square)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&color=0D1117&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&color=0D1117&style=flat-square)
