@@ -1,4 +1,4 @@
-## Hi, I am Alan 🤘🏾
+## Hi, I am Alan 🤘🏾 ![](https://komarev.com/ghpvc/?username=alanlgoncalves&style=flat-square)
 
 Software Engineer at PagSeguro. Spring framework fan and actually in love with React Native and Flutter development.
 
