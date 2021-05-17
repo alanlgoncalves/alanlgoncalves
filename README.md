@@ -9,7 +9,7 @@ I love to discover new ways to make my life easy with IoT devices like Alexa, Ra
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&color=0D1117&style=flat-square)](https://twitter.com/AlanN_Goncalves)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=2867B2&color=0D1117&style=flat-square)](https://www.linkedin.com/in/alan-santos-31b39878/)
 
-### Currently Studying
+### Currently Studying [![Notion](https://img.shields.io/badge/-See_on_my_Notion-000?&logo=Notion&color=0D1117&style=flat-square)](https://www.notion.so/39122744ead14bab8411db827bec874e?v=b1096ee84050472b95b076fcd2b89f6d)
 
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=007396&color=0D1117&style=flat-square)
 ![Spring Native](https://img.shields.io/badge/-Spring_Native-000?&logo=Spring&color=0D1117&style=flat-square)
